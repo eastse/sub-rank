@@ -24,6 +24,11 @@ output: {
 
 ## 项目说明
 *__core__ 文件夹为渲染层所在，__FriendRank__,__OverRank__,__PassRank__等类也就排行榜三大头的示例，当然可以更新项目需求去创建，入口文件为`index.ts`若不是自行修改编译配置*
+
+### 主域组件SubContextView
+*主项目使用 SubContextView这个组建，不要使用官方的子域组建，使用方法参考demo项目*
+
+### 子域
 核心渲染组件有下列四个
 - - - -
 * Node
